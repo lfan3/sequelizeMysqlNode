@@ -1,0 +1,2 @@
+# sequelizeMysqlNode
+learning sequelize
